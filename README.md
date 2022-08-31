@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning (training steps) and playing with quantum computers (I professionally studied quantum computation). Also currently I am doing frontier research in quantum physics in the _Research Center for Quantum Information_ In the _Slovak Academy of Sciences_ in Bratislava.
-- 🌱 I’m currently learning Machine Learning libraries
-- 👯 I’m looking to collaborate on Machine Learning, Quantum Computing, Global Warming fighting and on.
+- 🔭 I’m currently working in Machine Learning and playing with quantum computers (Professionally, I studied quantum computation as part of my formation as theoretical physicst). Also currently I am doing frontier research in quantum physics in the _Research Center for Quantum Information_ In the _Slovak Academy of Sciences_ in Bratislava.
+- Edditing this
+- 🌱 I’m currently reading advanced literature on Machine Learning 
+- 👯 I’m looking to collaborate on Machine Learning, Quantum Computing, Global Warming fighting and so on.
 - 🤔 I’m looking for help with solutions to make Global Warming less worse.
 - 💬 Ask me about any topic in physics, especially quantum physics, thermodynamics and mathematical physics.
 - 📫 How to reach me: Linkedin.
